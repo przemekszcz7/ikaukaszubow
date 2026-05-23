@@ -1,0 +1,6 @@
+{
+  "name": "Smażalnia IKA u Kaszuba",
+  "description": "Oficjalna strona restauracji Smażalnia ryb i obiady domowe IKA u Kaszuba w Gdyni. Świeże ryby z pieca, tradycyjna kuchnia kaszubska, desery i drinki.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
